@@ -1,1 +1,16 @@
 /* your code */
+table,tr{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    border-radius: 6px;
+}
+th,td{
+    padding-right: 30px;
+}
+thead{
+    background-color: blue;
+    color: white;
+}
+tbody{
+    background-color: rgb(212, 212, 238);
+}
